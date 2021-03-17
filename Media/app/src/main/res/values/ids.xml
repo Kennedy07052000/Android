@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtAv1" type="id" />
+    <item name="txtAv2" type="id" />
+    <item name="txtAv3" type="id" />
+    <item name="txtAv4" type="id" />
+    <item name="btnVerificar" type="id" />
+    <item name="txtMediaFinal" type="id" />
+    <item name="txtMaiorNota" type="id" />
+    <item name="txtMenorNota" type="id" />
+    <item name="txtMensagem" type="id" />
+    <item name="txtMF" type="id" />
+    <item name="txtMensage" type="id" />
+    <item name="textView16" type="id" />
+</resources>
